@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="5Ei1T8lW9iF_vYcra1fU">
+    <mxGraphModel dx="1151" dy="1091" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1750" pageHeight="950" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="w36JQsp__jUW6MR9B9by-77" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-1" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="185.1388888888889" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="" vertex="1">
+          <mxGeometry height="560" width="290" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Fuentes de Datos&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="70" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="250" x="60" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;F1: Migración Colombia&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="90" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Flujo migratorio de extranjeros.&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Tableros en CSV (9 archivos)&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Filtros: Aeropuerto Rafael Núñez y 2023-2025&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="75" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="250" x="60" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;F2: DANE&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="90" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Encuesta mensual de alojamiento (EMA)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Excel (.xlsx)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Filtros: Cartagena y 2023-2025&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="70" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="140" width="250" x="60" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;F3: Hotelera Caribe S.A.S&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="85" y="414" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Reservas de los 5 hoteles (es una fuente sintética), formato&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(#000000, var(--ge-light-color, #ffffff));&quot;&gt;CSV&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Más de 100.000 filas y 2023-2025&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Datos generados con un script de Python&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="220" x="75" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-78" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-13" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555.2777777777778" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="" vertex="1">
+          <mxGeometry height="560" width="290" x="410" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Procesos ETLs&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="445" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="450" width="250" x="430" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Pentaho Data Integration (PDI)&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="460" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Extracción: Lee CSV (UTF-16, tabuladores y Excel (.xslx)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Staging: Realiza una copia fiel de las fuentes en PostgreSQL&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Limpieza: Unifica los formatos de las fechas, quita los duplicados, aborda los espacios nulos y normaliza los codigos de la ciudad y los tipos de habitaciones.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Carga: Dimensiones y hechos del DW&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Transformaciones:&amp;nbsp;&lt;code&gt;.ktr&lt;/code&gt; que ejecutan la limpieza y carga de registros fila a fila, coordinadas en orden de ejecución por trabajos &lt;code&gt;.kjb&lt;/code&gt;&amp;nbsp;.&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="310" width="235" x="430" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-23" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-3" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.21;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-24" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-7" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.576;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-25" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-10" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.008;entryY=0.839;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-79" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-26" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="925.0000000000002" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="" vertex="1">
+          <mxGeometry height="560" width="290" x="780" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Almacén de Datos&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="810" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="450" width="250" x="800" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;PostgreSQL - Data Warehouse&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="190" x="825" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Esquema dimensional: Tabla de hechos y dimensiones&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Histórico: 2023 - 2025&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Scripts CREATE TABLE en la carpeta dw/ddl&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" vertex="1">
+          <mxGeometry height="310" width="235" x="802.5" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-31" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-15" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.484;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;exitX=1.02;exitY=0.475;exitDx=0;exitDy=0;entryPerimeter=0;" target="w36JQsp__jUW6MR9B9by-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Carga&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="710" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-80" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-33" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1515" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-33" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="560" width="330" x="1350" y="35" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Acceso Usuario Final&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1385" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-36" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="" vertex="1">
+          <mxGeometry height="560" width="120" x="1150" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;BI&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1100" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-52" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-39" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-53" connectable="0" parent="w36JQsp__jUW6MR9B9by-52" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Pronosticos&lt;/font&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.1269" as="geometry">
+            <mxPoint x="20" y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-39" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="280" x="1370" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-40" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Python - Modelo Predictivo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1405" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Pronostica la ocupación mensual. Lee el DW y devuelve los pronósticos Notebooks en la carpeta modelo&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="245" x="1385" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-54" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-42" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-56" connectable="0" parent="w36JQsp__jUW6MR9B9by-54" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;fontSize=12;defaultLabelBackgroundColor=page;" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;Informes&lt;/span&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.0279" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="280" x="1370" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-43" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="130" width="280" x="1370" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Power BI - Dashboard&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1400" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-45" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Ocupación y tarifa por mes, hotel y los tipos de habitaciones. Llegadas de extranjeros y ocupación del destino.&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Archivo .pbix en la carpeta dashboard/&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="1390" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-47" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Gerente General&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="220" x="1405" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-48" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Decide las tarifas por tipo de habitación y la contratación de temporales.&amp;nbsp;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="70" width="250" x="1390" y="470" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-50" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-28" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.996;exitY=0.15;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-51" edge="1" parent="1" source="w36JQsp__jUW6MR9B9by-28" style="edgeStyle=none;curved=1;rounded=0;curveGeometry=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;defaultLabelBackgroundColor=page;startSize=8;endSize=8;" target="w36JQsp__jUW6MR9B9by-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fillColor=#fad9d5;strokeColor=#ae4132;" value="" vertex="1">
+          <mxGeometry height="250" width="1650" x="40" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-58" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Gobierno de Datos y Metadatos&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="260" x="710" y="670" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-59" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="150" width="385" x="60" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Diccionario&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="152.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-61" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Diccionario de datos de cada fuente (datos/diccionarios)&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Glosario de ocupación y tarifa, con o sin habitaciones en mantenimiento, con o sin IVA&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="345" x="85" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-68" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="150" width="385" x="470" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-69" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="150" width="385" x="875" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-70" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="150" width="385" x="1280" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-71" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Calidad&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="562.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-72" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Reglas de limpieza en PDI. Conciliación de conteos y totales por fuentes(dw/conciliación)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="345" x="490" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-73" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Monitoreo&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="200" x="967.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-74" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Registro de ejecución de los trabajos de PDI y revisión de cargas fallidas&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="345" x="895" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-75" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;b&gt;Seguridad y Responsables&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="235" x="1355" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="w36JQsp__jUW6MR9B9by-76" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Roles y permisos en PostgreSQL y en Power BI. También un responsable por indicador, y sin datos personales identificables.&lt;/span&gt;" vertex="1">
+          <mxGeometry height="100" width="345" x="1295" y="750" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

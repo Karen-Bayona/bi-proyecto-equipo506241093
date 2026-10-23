@@ -1,0 +1,6 @@
+﻿campo,tipo,descripcion,ejemplo,problema_calidad
+Mes (comportamiento mensual),Texto,Mes del año de las entradas y salidas,Enero,"Diseño ancho con dos filas de encabezado: cada mes aparece dos veces (Enero, Enero) con las columnas Entradas y Salidas."
+País de nacionalidad,Texto,Nacionalidad del extranjero,Venezuela (República Bolivariana de),Nombres oficiales largos que no coinciden con los de F3 (Estados Unidos de América).
+Color país (auxiliar de Tableau),Texto,"Columna de formato del tablero, sin valor de negocio",Menos de 1.000,Columna auxiliar que debe excluirse en PDI.
+Ciudad de hospedaje,Texto,Ciudad donde se hospeda el extranjero,Cartagena de Indias,"Solo nombre, sin código de municipio. Hay nombres parecidos (Cartagena del Chairá) y comas dentro del nombre (Bogotá, D.C.)."
+Total,Entero (guardado como texto),Total de extranjeros por país o ciudad,619.405,"Separador de miles distinto entre años (2023: 481,626; 2025: 619.405)."

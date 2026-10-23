@@ -1,0 +1,21 @@
+﻿archivo_origen,tablero,campo,porcentaje_del_total,total,color_pais_nacionalidad
+Ciudad_de_hospedaje_Ext2023.csv,Ciudad de hospedaje,Cartagena de Indias,95.01%,"481,626",
+Ciudad_de_hospedaje_Ext2023.csv,Ciudad de hospedaje,Barranquilla,0.90%,"4,569",
+Ciudad_de_hospedaje_Ext2023.csv,Ciudad de hospedaje,Medellín,0.70%,"3,555",
+Ciudad_de_hospedaje_Ext2023.csv,Ciudad de hospedaje,"Bogotá, D.C.",0.58%,"2,936",
+Ciudad_de_hospedaje_Ext2024.csv,Ciudad de hospedaje,Cartagena de Indias,"95,98%",592.915,
+Ciudad_de_hospedaje_Ext2025.csv,Ciudad de hospedaje,Cartagena de Indias,"96,39%",619.405,
+Ciudad_de_hospedaje_Ext2025.csv,Ciudad de hospedaje,Barranquilla,"0,98%",6.286,
+Ciudad_de_hospedaje_Ext2025.csv,Ciudad de hospedaje,"Bogotá, D.C.","0,29%",1.832,
+Ciudad_de_hospedaje_Ext2025.csv,Ciudad de hospedaje,Cartagena del Chairá,"0,08%",494,
+Mapa_país_de_nacionalidad_Ext2023.csv,País de nacionalidad,Albania,0.01%,109,Menos de 1.000
+Mapa_país_de_nacionalidad_Ext2023.csv,País de nacionalidad,Venezuela (República Bolivariana de),1.44%,"15,011",10.001 a 50.000
+Mapa_país_de_nacionalidad_Ext2023.csv,País de nacionalidad,Estados Unidos de América,44.78%,"465,191",400.001 a 2.300.000
+Mapa_país_de_nacionalidad_Ext2025.csv,País de nacionalidad,Albania,"0,01%",94,Menos de 1.000
+Mapa_país_de_nacionalidad_Ext2025.csv,País de nacionalidad,Argentina,"3,17%",42.037,10.001 a 50.000
+Mapa_país_de_nacionalidad_Ext2025.csv,País de nacionalidad,Venezuela (República Bolivariana de),"2,05%",27.138,10.001 a 50.000
+Mapa_país_de_nacionalidad_Ext2025.csv,País de nacionalidad,Estados Unidos de América,"36,28%",481.368,400.001 a 2.300.000
+Comportamiento_mensual_Ext2023.csv,Comportamiento mensual,Enero (Entradas),3.91%,"40,579",
+Comportamiento_mensual_Ext2023.csv,Comportamiento mensual,Enero (Salidas),4.45%,"46,202",
+Comportamiento_mensual_Ext2025.csv,Comportamiento mensual,Enero (Entradas),"4,86%",64.523,
+Comportamiento_mensual_Ext2025.csv,Comportamiento mensual,Enero (Salidas),"5,48%",72.707,

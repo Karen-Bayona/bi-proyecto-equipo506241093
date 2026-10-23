@@ -1,0 +1,9 @@
+﻿campo,tipo,descripcion,ejemplo,problema_calidad
+Año,Entero,Año del dato,2024,Solo aparece en la primera fila de cada año (enero); de febrero a diciembre la celda está vacía.
+Mes,Texto,Mes del dato,Enero,Debe convertirse a número de mes para armar la fecha.
+"Región o ciudad (columnas: Caribe, Eje Cafetero, Cartagena, …)",Texto (encabezado),Cada columna es una región o ciudad del dato,Caribe,"Espacios sobrantes y saltos de línea en los nombres: 'Caribe ', ' Eje Cafetero', 'Golfo de Morrosquillo \ny Sabana'."
+Ocupación (hoja 4.2),Decimal (%),"Porcentaje de ocupación mensual de Cartagena, en escala de 0 a 100",75.9974596289046 (enero 2023),"Hasta 14 decimales. Hay celdas con ""-"" cuando no hay dato (5 en la hoja). La unidad es distinta de las demás hojas."
+Índice de tarifa sencilla / doble (hoja 6.1),Decimal (índice),"Índice de tarifa de Cartagena por tipo de acomodación, con base 2019 = 100","149.502069595196 (sencilla, enero 2023)","No es un valor en pesos y no es comparable con la tarifa de F3. Encabezado en tres filas (región, tipo de acomodación, medida) repetido por cada región."
+Variación anual de tarifa (hoja 6.1),Decimal (%),Variación porcentual anual del índice de tarifa,"31.2533426174553 (sencilla, enero 2023)","Celdas con un espacio "" "" en lugar de dato (todo 2019, que no tiene año previo)."
+Variación anual de ingresos reales (hoja 1.1),Decimal (%),Variación porcentual anual de los ingresos reales de Cartagena (serie desde enero 2020),15.0434433434097 (enero 2023),"Valores atípicos por la pandemia (5550.78549842111 en abril 2021). Celdas con ""-"" y ""*"" en lugar de dato. Otra unidad y otro periodo de referencia."
+Notas al pie,Texto,Texto explicativo después del último mes,Actualizado el 13 de febrero de 2026,"Filas de texto (Fuente: DANE, EMA; ᵖ: Cifra provisional) mezcladas con los datos, que deben descartarse."

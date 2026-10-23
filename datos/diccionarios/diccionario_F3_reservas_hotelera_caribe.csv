@@ -1,0 +1,14 @@
+﻿campo,tipo,descripcion,ejemplo,problema_calidad
+id_reserva,Texto,Identificador único de la reserva,RES-000001,"1.801 filas repetidas (120.092 identificadores únicos). RES-000087 aparece dos veces, idéntica."
+hotel,Texto,Código del hotel de la cadena (H1 a H5),H1,"Solo código: no trae el nombre ni la zona (Centro, Getsemaní, Bocagrande), que deben derivarse en PDI."
+tipo_habitacion,Texto,Tipo de habitación reservada,Estándar,"12 escrituras para 3 tipos: Estándar, estandar, Standard, STD, Superior, superior, sup., SUP, Suite, suite, ste, SUITE."
+fecha_reserva,Texto,Fecha en que se hizo la reserva,18/12/2022,Formato distinto por hotel: dd/mm/aaaa en H1 a H3 y mm-dd-aaaa en H4 y H5 (ej. 04-28-2023).
+fecha_entrada,Texto,Fecha de llegada del huésped,01/01/2023,Mismo problema de formato que fecha_reserva.
+fecha_salida,Texto,Fecha de salida del huésped,03/01/2023,Mismo problema de formato que fecha_reserva.
+noches,Entero,"Número de noches de la estancia (1, 2, 3, 4, 5 o 7)",2,Sin problemas detectados. Debe coincidir con fecha_salida − fecha_entrada (validar en PDI al unificar fechas).
+num_huespedes,Entero,Número de huéspedes de la reserva (1 a 4),4,2.441 nulos (2.402 sin duplicados).
+canal,Texto,"Canal de venta (Web directa, OTA, Agencia, Corporativo, Walk-in)",OTA,"4.869 nulos (4.804 sin duplicados), ej. RES-000004 (H1). Se cargan como ""No informado""."
+nacionalidad,Texto,País de nacionalidad del huésped,Colombia,7.330 nulos (7.206 sin duplicados). Nombres oficiales largos (Estados Unidos de América) que difieren de los de otras fuentes.
+tarifa_noche,Entero (COP),Tarifa por noche en pesos colombianos,419000,"Con IVA en H4 y H5 (Bocagrande) y sin IVA en H1 a H3, sin columna que lo indique. No son comparables."
+tarifa_total,Entero (COP),Tarifa por noche × noches,838000,Hereda el problema del IVA de tarifa_noche.
+estado,Texto,Estado de la reserva (Confirmada o Cancelada),Confirmada,10.952 canceladas que no ocupan habitación y no deben contarse en la ocupación.
